@@ -1,0 +1,40 @@
+body{
+    background-color:#83a3d4
+}
+
+.box{
+    margin: 200px auto;
+    background-color:#fefefe;
+    width: 600px;
+    height: 250px;
+}
+
+.content{
+    margin: auto 10%;
+    /* padding-left: 10px; */
+}
+p{
+    color: #3446b9;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+small{
+    font-size: 8px;
+    text-align: center;
+}
+
+
+.quti {
+    padding: 20px;
+    float: left;
+
+}
+
+.textcentr{padding-left: 16px; }
+
+img{
+    width: 50px;
+}
+
+
